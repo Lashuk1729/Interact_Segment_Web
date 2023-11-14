@@ -1,0 +1,5 @@
+# ignore files
+*.log
+*.db
+*.env
+*.log
