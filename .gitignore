@@ -2,3 +2,5 @@
 *.db
 *.env
 *.log
+
+annotation_app/logs.txt
